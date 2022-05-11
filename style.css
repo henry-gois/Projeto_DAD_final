@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(33, 219, 126);
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 22px;
+}
+
+#celular{
+    text-align: center;
+    background-color: #eff0e8;
+    margin-left: 512px;
+    margin-right: 512px;
+    margin-top: 10px;
+    border-radius: 70px;
+    border: 2px solid blue;
+}
+
+#caixa1{
+    margin-bottom: 20px;
+    background-color: #426dff;
+    padding-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 40px;
+    border-radius: 10px;
+    color: white;
+    font-size: 14px;
+    width: 185px;
+    height: 65px;
+    box-shadow: 1px 1px 10px rgb(26, 185, 92);
+}
+
+#caixa2{
+    margin-bottom: 20px;
+    background-color: #426dff;
+    padding-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 40px;
+    border-radius: 10px;
+    color: white;
+    font-size: 14px;
+    width: 185px;
+    height: 65px;
+    box-shadow: 1px 1px 10px rgb(26, 185, 92);
+}
+
+#caixa3{
+    margin-bottom: 20px;
+    background-color: #426dff;
+    padding-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 40px;
+    border-radius: 10px;
+    color: white;
+    font-size: 14px;
+    width: 185px;
+    height: 65px;
+    box-shadow: 1px 1px 10px rgb(26, 185, 92);
+}
+
+#botao{
+    margin-bottom: 60px;
+    border-radius: 20px;
+    font-size: 12px;
+    background-color: rgb(26, 185, 92);
+    width: 110px;
+    height: 40px;
+    border-style: none;
+}
+
+#emoji{
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+#titulo2{
+    font-size: 15px;
+    margin-top: 10px;
+    font-weight: normal;
+}
+.notbold{
+    font-weight: normal;  
+}
+p{
+    padding-top: 15px;
+}
+#espaco{
+    margin-top: 0px;
+}
